@@ -36,6 +36,6 @@ Então ainda não foi personalizado. Abra o Claude Code na web aqui e escreva
 clínica.
 
 ---
-Gerado automaticamente a partir do kit `fmunizmcorp/implantarabi-ia` (versão 0.2.1) por
+Gerado automaticamente a partir do kit `fmunizmcorp/implantarabi-ia` (versão 0.3.0) por
 `ferramentas/kit/exportar_modelo.py`. Não edite à mão: a próxima exportação
 sobrescreve.
